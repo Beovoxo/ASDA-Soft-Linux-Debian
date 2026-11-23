@@ -3,7 +3,10 @@
 [![CI](https://github.com/Beovoxo/ASDA-Soft-Linux-Debian/actions/workflows/ci.yml/badge.svg)](https://github.com/Beovoxo/ASDA-Soft-Linux-Debian/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/platform-Debian%20%2F%20LinuxCNC-orange)](https://www.debian.org/)
-[![License: MIT](https://img.shields.io/badge/License-GPL--3.0--only-blue.svg)](LICENSE)
+
+A idear of how a linux version would look like and work, of the Delta software. 
+
+
 
 An independent, native Debian/Linux desktop foundation for a future Delta
 ASDA-A2 configuration and diagnostics application.
