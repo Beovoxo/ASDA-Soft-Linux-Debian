@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=ASDA Soft Linux
+Comment=Delta ASDA servo configuration workspace
+Exec=asda-soft-linux
+Icon=applications-engineering
+Terminal=false
+Categories=Development;Engineering;
